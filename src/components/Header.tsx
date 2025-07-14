@@ -50,7 +50,7 @@ const Header = () => {
               onClick={() => setIsProfileDropdownOpen(!isProfileDropdownOpen)}
             >
               <div className="profile-photo-wrapper">
-                <img src="https://imagekit.io/public/share/ejj8k8670/8485d0d8aa17fffb0bd0d1348fa14920e6ca8a99548c0c37916c6ca5258def39bd9c933519ba309bedb3832cf4161b31b8be84cfc115525d3090aa08ee1382f0fde555b6016fa00a4d0a402eaa0278e3" alt="Profile" alt="Profile" className="profile-photo" />
+                <img src="https://ik.imagekit.io/ejj8k8670/Pass_Photo.jpg?updatedAt=1752490269907" alt="Profile" alt="Profile" className="profile-photo" />
                 <div className="online-indicator"></div>
               </div>
               <div className="profile-name">
@@ -65,7 +65,7 @@ const Header = () => {
               <div className="dropdown-menu">
                 <div className="dropdown-header">
                   <div className="dropdown-photo">
-                    <img src="https://imagekit.io/public/share/ejj8k8670/8485d0d8aa17fffb0bd0d1348fa14920e6ca8a99548c0c37916c6ca5258def39bd9c933519ba309bedb3832cf4161b31b8be84cfc115525d3090aa08ee1382f0fde555b6016fa00a4d0a402eaa0278e3" alt="Profile" />
+                    <img src="https://ik.imagekit.io/ejj8k8670/Pass_Photo.jpg?updatedAt=1752490269907" alt="Profile" />
                   </div>
                   <div>
                     <p className="dropdown-name">Uday Kumar Naik Mudavath</p>
