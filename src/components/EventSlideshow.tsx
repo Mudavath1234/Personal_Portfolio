@@ -10,77 +10,77 @@ const EventSlideshow = () => {
       id: 1,
       title: "Conference Meet on Education at RGUKT-Basar 2024",
       description: "Honourable TG Educational Commisioner Akunuri Murali Retired IAS, attended the conference meet on education at RGUKT-Basar, where he shared insights on educational reforms and innovations.",
-      image: "../../assets/Meet2.jpeg",
+      image: "https://ik.imagekit.io/ejj8k8670/Meet2.jpeg?updatedAt=1752490637232",
       date: "Dec 2024"
     },
     {
       id: 2,
       title: "Letter Given to VC -RGUKT Basar",
       description: "We, the CRs, gave a letter to the Hon’ble VC to improve placements for CSE students.",
-      image: "../../assets/VC_T&P.jpeg",
+      image: "https://ik.imagekit.io/ejj8k8670/VC_T&P.jpeg?updatedAt=1752490690382",
       date: "Nov 2024"
     },
     {
       id: 3,
       title: "CSE-C2 Class Trip to Nizamabad",
       description: "We,C2 students of RGUKTB went on a short trip to Nizamabad to enjoy and have fun with friends.",
-      image: "../../assets/C2_trip1.JPG",
+      image: "https://ik.imagekit.io/ejj8k8670/C2_trip1.JPG?updatedAt=1752490747389",
       date: "April 2024"
     },
     {
       id: 4,
       title: "Industry Visit to Cognizant",
       description: "The university arranged a visit to Cognizant to help students understand its work culture and receive training from industry experts.",
-      image: "../../assets/Cognizant_Visit.jpg",
+      image: "https://ik.imagekit.io/ejj8k8670/Cognizant_Visit.jpg?updatedAt=1752490704013",
       date: "November 2024"
     },
      {
       id: 5,
       title: "Participation in Freshers’ Party",
       description: "Invited and participated in the Freshers’ Party organized by our department juniors, along with the HOD and faculty members.",
-      image: "../../assets/Juniors_Freshers.jpeg",
+      image: "https://ik.imagekit.io/ejj8k8670/Juniors_Freshers.jpeg?updatedAt=1752490668626",
       date: "Octomber 2024"
     },
     {
       id: 6,
       title: "Teachers’ Day Celebration",
       description: "Participated in the Teachers’ Day event at our university, organized by me and our department students, and felicitated the teachers for their efforts & Well being",
-      image: "../../assets/Teachers day.jpeg",
+      image: "https://ik.imagekit.io/ejj8k8670/Teachers%20day.jpeg?updatedAt=1752490702758",
       date: "September 2024"
     },
     {
       id: 7,
       title: "Farewell Party Celebration",
       description: "Enjoyed the farewell party organized by our juniors with great enthusiasm and memorable moments.",
-      image: "../../assets/Farewell.jpg",
+      image: "https://ik.imagekit.io/ejj8k8670/Farewell.jpg?updatedAt=1752490714526",
       date: "April 2025"
     },
     {
       id: 8,
       title: "Team Building Event- SIH",
       description: "Participated in the Smart India Hackathon (SIH) 2023, a nationwide initiative to provide students with a platform to solve real-world problems.",
-      image: "../../assets/SIH.jpg",
+      image: "https://ik.imagekit.io/ejj8k8670/SIH.jpg?updatedAt=1752490704670",
       date: "November 2023"
     },
     {
       id: 9,
       title: "Volunteer Visit for Convocation",
       description: "Visited Hyderabad as a volunteer to participate in the seniors’ convocation held at Gachibowli.",
-      image: "../../assets/Conference.jpg",
+      image: "https://ik.imagekit.io/ejj8k8670/Conference.jpg?updatedAt=1752490725747",
       date: "August 2023"
     },
     {
       id: 10,
       title: "Sevalal Jayanthi Celebrations -RGUKT Basar",
       description: "Participated in the Sevalal Jayanthi celebrations at our university, where we honored the legacy of Sevalal Maharaj and his contributions to society.",
-      image: "../../assets/Seva.jpg",
+      image: "https://ik.imagekit.io/ejj8k8670/Seva.jpg?updatedAt=1752490759117",
       date: "Feb 2023"
     },
     {
       id: 11,
       title: "Member of Hope House",
       description: "As a member of Hope House, I actively participated in various social initiatives and Events to support underprivileged children.",
-      image: "../../assets/Hope_House.JPG",
+      image: "https://ik.imagekit.io/ejj8k8670/Hope_House.JPG?updatedAt=1752490748674",
       date: "Jan 2024"
     },
     
