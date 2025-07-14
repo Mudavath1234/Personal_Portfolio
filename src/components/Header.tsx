@@ -50,7 +50,7 @@ const Header = () => {
               onClick={() => setIsProfileDropdownOpen(!isProfileDropdownOpen)}
             >
               <div className="profile-photo-wrapper">
-                <img src="../assets/Pass_Photo.jpg" alt="Profile" className="profile-photo" />
+                <img src="https://ik.imagekit.io/ejj8k8670/Pass_Photo.jpg?updatedAt=1752490269907" alt="Profile" className="profile-photo" />
                 <div className="online-indicator"></div>
               </div>
               <div className="profile-name">
