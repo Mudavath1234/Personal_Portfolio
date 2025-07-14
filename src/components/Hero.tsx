@@ -34,7 +34,7 @@ const Hero = () => {
               Learn More
             </button>
             <a
-            href="../../assets/Resume (2).pdf"
+            href="https://ik.imagekit.io/ejj8k8670/Uday_Resume%20(2).pdf?updatedAt=1752491589165"
             target="_blank"
             rel="noopener noreferrer"
             className="download-cv"
