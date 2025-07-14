@@ -1,0 +1,154 @@
+/* Footer.css */
+
+.footer-section {
+  background-color: #111827;
+  color: #d1d5db;
+  padding: 1rem 1rem 0.5rem;
+  text-align: center;
+  margin-top: -50px;
+}
+
+.footer-container {
+    padding-top: -6px;
+  max-width: 708px;
+  margin: 0 auto;
+}
+
+.footer-header h2 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+  color: white;
+}
+
+.footer-header p {
+  color: #9ca3af;
+  font-size: 1rem;
+  margin-bottom: 2rem;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+  position: relative;
+}
+
+.social-link {
+  position: relative;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  background-color: #1f2937;
+  color: #d1d5db;
+  transition: all 0.3s ease;
+  border: 2px solid transparent;
+  cursor: pointer;
+}
+
+.social-link:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.15);
+}
+
+/* Tooltip on hover */
+.tooltip {
+  position: absolute;
+  bottom: -30px;
+  background-color: #374151;
+  color: #fff;
+  font-size: 0.75rem;
+  padding: 4px 8px;
+  border-radius: 4px;
+  white-space: nowrap;
+  opacity: 0;
+  transform: translateY(5px);
+  pointer-events: none;
+  transition: all 0.2s ease;
+  z-index: 10;
+}
+
+.social-link:hover .tooltip {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Hover color effects */
+.social-link.github:hover {
+  color: #ffffff;
+  background-color: #333;
+}
+.social-link.linkedin:hover {
+  color: #0a66c2;
+  background-color: #e8f4fd;
+}
+.social-link.twitter:hover {
+  color: #1da1f2;
+  background-color: #e5f4fd;
+}
+.social-link.email:hover {
+  color: #dc2626;
+  background-color: #fee2e2;
+}
+.social-link.instagram:hover {
+  color: #e1306c;
+  background-color: #fce7f3;
+}
+
+.footer-email p {
+  color: #9ca3af;
+  font-size: 0.9rem;
+}
+
+.footer-email a {
+  color: #3b82f6;
+  font-weight: 600;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer-email a:hover {
+  color: #2563eb;
+}
+
+.footer-bottom-flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+  font-size: 0.9rem;
+  color: #9ca3af;
+  text-align: center;
+}
+
+.footer-bottom-flex span {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.heart-icon {
+  color: #ef4444;
+}
+
+.divider {
+  font-size: 1.1rem;
+  color: #6b7280;
+}
+
+.heart-icon {
+  color: #ef4444;
+  margin: 0 0.25rem;
+}
+
+.divider {
+  color: #6b7280;
+}
