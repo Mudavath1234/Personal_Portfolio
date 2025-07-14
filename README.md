@@ -32,13 +32,6 @@ This project showcases my work, skills, experience, and contact information in a
 
 ---
 
-## 📷 Screenshots
-
-![Homepage](./assets/screenshot-home.png)
-![Projects Section](./assets/screenshot-projects.png)
-
----
-
 ## 📦 Installation
 
 To run this project locally:
