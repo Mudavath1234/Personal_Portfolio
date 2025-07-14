@@ -9,7 +9,7 @@ const Projects = () => {
       id: 1,
       title: "• Placement Particulars Portal",
       description: "Built a portal to centralize job roles, company info, and student feedback for campus placements.",
-      image: "../assets/rguktbasar_cover.jpeg",
+      image: "https://ik.imagekit.io/ejj8k8670/rguktbasar_cover.jpeg?updatedAt=1752490633989",
       technologies: ["HTML/CSS","Java Script","React","PHP","MySQL"],
       liveUrl: "#",
       githubUrl: "https://github.com/Mudavath1234/ProPlacementPortal",
