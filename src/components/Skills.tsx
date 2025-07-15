@@ -54,7 +54,7 @@ const Skills = () => {
   return (
     <section className="skills-section-alt" id="skills">
       <div className="skills-header-alt">
-        <h2>My Skillset</h2>
+        <h2 style={{ color: 'rgb(29, 2, 179)' }}>My Skillset</h2>
         <p>Languages & Technologies I work with.</p>
       </div>
 
