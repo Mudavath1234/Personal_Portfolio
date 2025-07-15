@@ -62,7 +62,7 @@ const Experience = () => {
     <section id="experience" className="experience-section">
       <div className="container">
         <div className="experience-header">
-          <h2 className="title">Experience</h2>
+          <h2 style={{ color: 'rgb(29, 2, 179)' }} className="title">Experience</h2>
           <div className="underline"></div>
         </div>
 
