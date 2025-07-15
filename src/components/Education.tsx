@@ -91,7 +91,7 @@ const Education = () => {
     <section id="education" className="education-section">
       <div className="container">
         <div className="section-header">
-          <h2 className="section-title">Education</h2>
+          <h2 style={{ color: 'rgb(29, 2, 179)' }} className="section-title">Education</h2>
           <div className="section-underline"></div>
         </div>
 
