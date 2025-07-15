@@ -52,7 +52,7 @@ const Projects = () => {
     <section id="projects" className="projects-section">
       <div className="container">
         <div className="section-header">
-          <h2>Featured Projects</h2>
+          <h2 style={{ color: 'rgb(29, 2, 179)' }}>Featured Projects</h2>
           <div className="underline"></div>
         </div>
 
