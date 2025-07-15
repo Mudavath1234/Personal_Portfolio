@@ -7,7 +7,7 @@ const About = () => {
     <section id="about" className="about-section">
       <div className="container">
         <div className="section-header">
-          <h2>About Me</h2>
+          <h2 style={{ color: 'rgb(29, 2, 179)' }}>About Me</h2>
           <div className="underline"></div>
         </div>
 
