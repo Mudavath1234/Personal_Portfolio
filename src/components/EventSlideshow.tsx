@@ -41,7 +41,7 @@ const EventSlideshow = () => {
       image: "https://ik.imagekit.io/ejj8k8670/Juniors_Freshers.jpeg?updatedAt=1752490668626",
       date: "Octomber 2024"
     },
-    {
+    /*{
       id: 6,
       title: "Teachers’ Day Celebration",
       description: "Participated in the Teachers’ Day event at our university, organized by me and our department students, and felicitated the teachers for their efforts & Well being",
@@ -54,7 +54,7 @@ const EventSlideshow = () => {
       description: "Enjoyed the farewell party organized by our juniors with great enthusiasm and memorable moments.",
       image: "https://ik.imagekit.io/ejj8k8670/Farewell.jpg?updatedAt=1752490714526",
       date: "April 2025"
-    },
+    },*/
     {
       id: 8,
       title: "Team Building Event- SIH",
