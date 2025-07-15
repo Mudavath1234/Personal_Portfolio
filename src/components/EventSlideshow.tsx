@@ -105,7 +105,7 @@ const EventSlideshow = () => {
     <section id="events" className="events-section">
       <div className="events-container">
         <div className="events-header">
-          <h2>Events & Achievements</h2>
+          <h2 style={{ color: 'rgb(29, 2, 179)' }}>Events & Achievements</h2>
           <div className="underline"></div>
         </div>
 
