@@ -67,7 +67,7 @@ const Footer = () => {
 
         <div className="footer-bottom-flex">
   <span className="made-by">
-    Made with Love <Heart className="heart-icon" size={16} fill="currentColor" /> by Uday Naik
+    Made by Uday Naik
   </span>
   <span className="divider">|</span>
   <span className="copyright">
